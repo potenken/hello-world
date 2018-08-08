@@ -1,3 +1,3 @@
 # hello-world
 
-edit push
+edit push puis pull
